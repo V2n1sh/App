@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  margin-top: 10%;
+  justify-content: center;
+}
+
+.formAuto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFFFFF;
+  width: 500px;
+  height: 400px;
+  box-shadow: 2px 5px 25px -3px rgba(180, 180, 180, 0.25);
+  border-radius: 20px;
+}
+
+.form-title {
+  display: flex;
+  justify-content: center;
+}
+
+.button-register {
+  background: transparent;
+  border: 0;
+  color: grey;
+}

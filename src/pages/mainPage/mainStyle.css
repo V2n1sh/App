@@ -1,0 +1,9 @@
+h1 {
+    margin-top: 5%;
+}
+
+.news-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
